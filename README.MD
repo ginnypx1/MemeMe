@@ -30,3 +30,7 @@ Please check out my repository **MemeMe2.0** for the updated version that allows
 In this version, I  added the ability for a user to choose between several styles of font, using a slider controller on the bottom of the meme creation screen. I thought it would be particularly useful for the user to have access to "Star Wars" :boom: and "The Simpsons" :laughing: style fonts.
 
 In the future, I would love to add the ability to choose between several filters for the meme photo.
+
+## Screenshots
+
+Screenshots for this app are available at: https://ginnypx1.github.io/MemeMe2.0/
